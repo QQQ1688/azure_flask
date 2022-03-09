@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'azure-git-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5318042F65C04444A2BDC20BAC7EACA1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89241426E29546BAB5B79403E1F51E84 }}
