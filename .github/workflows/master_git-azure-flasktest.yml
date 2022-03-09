@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'git-azure-FlaskTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49A63B5D0A2C4ADD914C4D38F39A8DE2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D1550FEA13B4D59B71B45D81BE14BBA }}
